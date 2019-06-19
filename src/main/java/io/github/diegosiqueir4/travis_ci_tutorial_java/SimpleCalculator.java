@@ -1,4 +1,4 @@
-package io.github.joaomlneto.travis_ci_tutorial_java;
+package io.github.diegosiqueir4.travis_ci_tutorial_java;
 
 public class SimpleCalculator {
 	public int add(int a, int b) {
@@ -14,6 +14,6 @@ public class SimpleCalculator {
 		return a / b;
 	}
 	public static final void main(String[] args) {
-		System.out.println("Hello world?");
+		System.out.println("Hello world!");
 	}
 }
