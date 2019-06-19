@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/diegosiqueir4/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.org/diegosiqueir4/travis-ci-tutorial-java)
+[![Build Status](https://travis-ci.com/diegosiqueir4/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.com/diegosiqueir4/travis-ci-tutorial-java)
 [![Code Coverage](https://codecov.io/github/diegosiqueir4/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/diegosiqueir4/travis-ci-tutorial-java)
 
 # travis-ci-tutorial-java
